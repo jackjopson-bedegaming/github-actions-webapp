@@ -1,4 +1,4 @@
-name: Deploy Web App to GitHub Pages - ${{ github.ref_name }}
+name: Deploy Web App to GitHub Pages
 on:
   push:
     branches: [ main ]
